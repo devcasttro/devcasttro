@@ -6,7 +6,7 @@
 
 ![Dev Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=devcastro&show_icons=true&theme=transparent)
 
-<-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devcasttro&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcasttro&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
